@@ -1,0 +1,5 @@
+name: AD-AN
+version: 1.1
+author: EduardoKanp
+main: com.gmail.eduardokanp.anniboss.Main
+depend: [Annihilation]
